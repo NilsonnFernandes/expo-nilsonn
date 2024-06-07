@@ -10,7 +10,7 @@ import {
   TitleText,
 } from "./styles";
 
-import Background from "../../assets/images/background.png";
+import Background from "../../assets/images/muitoloco.png";
 import Cloud from "../../assets/images/cloud.png";
 
 export default function Search() {

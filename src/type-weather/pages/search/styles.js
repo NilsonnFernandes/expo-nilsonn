@@ -13,8 +13,8 @@ export const HeaderContainer = styled.View`
   justify-content: center;
   align-items: center;
   width: auto;
-  gap: 10px;
-  margin-top: 48px;
+  gap: 20px;
+  margin-top: 60px;
 `;
 
 export const HeaderImg = styled.Image`
@@ -33,19 +33,19 @@ export const TitleContainer = styled.View`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 188px;
+  margin-top: 600px;
   gap: 4px;
 `;
 
 export const Subtitle = styled.Text`
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   color: white;
 `;
 
 export const TitleColored = styled.Text`
   font-size: 20px;
-  color: #8fb2f5;
+  color: white;
   font-weight: bold;
 `;
 
